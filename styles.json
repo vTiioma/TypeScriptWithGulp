@@ -1,0 +1,6 @@
+[
+    "./node_modules/normalize.css/normalize.css",
+    "./node_modules/md-icons/material-icons.css?family=Material+Icons",
+    "./src/**/**/*.css",
+    "!./src/**/**/*.min.css"
+]

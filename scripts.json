@@ -1,0 +1,6 @@
+[
+    "./node_modules/npm-modernizr/modernizr.js",
+    "./node_modules/gsap/src/uncompressed/TweenLite.js",
+    "./node_modules/gsap/src/uncompressed/TweenMax.js",
+    "./node_modules/phaser/dist/phaser.js"
+]

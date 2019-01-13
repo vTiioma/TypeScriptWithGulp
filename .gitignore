@@ -35,6 +35,14 @@ build/Release
 # Dependency directories
 node_modules/
 jspm_packages/
+dist/
+test/
+
+.vscode
+.DS_Store
+
+# SASS cache directory
+.sass-cache
 
 # TypeScript v1 declaration files
 typings/
